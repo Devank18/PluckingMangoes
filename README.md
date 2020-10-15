@@ -1,2 +1,2 @@
 # PluckingMangoes
-Plucking mangoes
+Plucking Mangoes
